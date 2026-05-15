@@ -54,7 +54,7 @@ export const statues: Statue[] = [
     year: "2003",
     coordinates: [2.405186, 48.864807],
     image: "/images/piaf.png",
-    description: "Edith Piaf était une chanteuse française du XXe siècle, célèbre pour ses chansons d'amour et de la vie parisienne. La statue a été érigée pour commémorer le 40e anniversaire de sa mort. "
+    description: "Edith Piaf était une chanteuse française du XXe siècle, célèbre pour ses chansons d'amour et de la vie parisienne. La statue a été érigée pour commémorer le 40ème anniversaire de sa mort. "
   },
   {
     name: "Agrippine",
@@ -86,7 +86,7 @@ export const statues: Statue[] = [
     year: "1898",
     coordinates: [2.326530, 48.893801],
     image: "/images/deraismes2.png",
-    description: 'Maria Deraismes était une féministe, conférencière, et militante française du XIXe siècle, connue pour son engagement dans les mouvements de libération des femmes. Un an après sa mort, son nome est donné à une rue de Paris, et une statue est érigée en son honneur. Elle est presente dans une position oratoire, debout, rien de comparable aux statues de femmes de l’époque, qui sont souvent assises ou allongées.'
+    description: 'Maria Deraismes était une féministe, conférencière, et militante française du XIXe siècle, connue pour son engagement dans les mouvements de libération des femmes. Un an après sa mort, son nom est donné à une rue de Paris, et une statue est érigée en son honneur. Elle est presenté ici dans une position oratoire, debout, rien de comparable aux statues de femmes de l’époque, qui sont souvent assises ou allongées.'
   },
   {
     name: "Porte de la Chapelle, Dix Femmes Illustres",
@@ -102,7 +102,7 @@ export const statues: Statue[] = [
     year: "1870",
     coordinates: [2.325824, 48.851518],
     image: "/images/hirsch.png",
-    description: "Clara de Hirsch et Marguerite Boucicaut étaient deux femmes françaises du XIXe siècle, connues pour leur activité philantropique."  
+    description: "Clara de Hirsch et Marguerite Boucicaut étaient deux femmes françaises du XIXe siècle, connues pour leur activité philanthropique."  
   },
   {
     name: "Luxembourg – Reines et Femmes Illustres",
@@ -118,6 +118,6 @@ export const statues: Statue[] = [
     year: "1874",
     coordinates: [2.332186, 48.863854],
     image: "/images/jeanne.png",
-    description: "Une commande du gouvernement français, ce monument est situé à côté du lieu où Jeanne a essayé à s’emparer de Paris. Jeanne d’Arc est une jeune paysanne française née en 1412 à Domrémy. Elle affirme, dès l’adolescence, entendre des voix divines lui demandant de libérer la France de l’occupation anglaise pendant la guerre de Cent Ans. Elle parvient à convaincre le futur roi Charles VII de lui confier une armée et joue un rôle important dans la guerre de cent ans. Capturée en 1430 par les Bourguignons, elle est condamnée et brûlée vive à Rouen en 1431, à l’âge de 19 ans."
+    description: "Une commande du gouvernement français, ce monument est situé à côté du lieu où Jeanne a essayé de s’emparer de Paris. Jeanne d’Arc est une jeune paysanne française née en 1412 à Domrémy. Elle affirme, dès l’adolescence, entendre des voix divines lui demandant de libérer la France de l’occupation anglaise pendant la guerre de Cent Ans. Elle parvient à convaincre le futur roi Charles VII de lui confier une armée et joue un rôle important dans la guerre de cent ans. Capturée en 1430 par les Bourguignons, elle est condamnée et brûlée vive à Rouen en 1431, à l’âge de 19 ans."
   }
 ];
